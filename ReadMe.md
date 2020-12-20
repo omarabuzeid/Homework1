@@ -46,11 +46,11 @@ The goal for Robinhood is to grow it's userbase to capitalize on it's high-volum
 
 Therefore my personal recommendations for Robinhood are:-
 
-1: Expand possible investments offerings to include bonds, mutual funds, and commodities such as metals, oil and gas, and agricultural assets. Moreover, provide users with the able to trade on the Foreign Exchange Market. This will enable the company to match the offerings of the legacy brokers it is competiting with, and attract higher-value investors. 
+1: Expand possible investments offerings to include bonds, mutual funds, and commodities such as metals, oil and gas, and agricultural assets. Moreover, provide users with the ablity to trade on the Foreign Exchange Market. This will enable the company to match the offerings of the legacy brokers it is competiting with, and attract higher-value investors. 
 
 2: Further reduce the barriers to entry in investing by offering an automated investment product. Develop and leverage RoboAdvisors to create a number of different portfolios that users can invest in passively. This will help Robinhood gain more users and win a larger market share by competing directly against other FinTech firms and RoboAdvisors such as WealthSimple. 
 
-While the first recommendation can be adopted without the leveraging of any new technologies, Robinhood will need to utilize additional technologies for the second. Python, a programming language it already leverages, will enable Robinhood to develop simple trading bot by creating a trading algorithm.  With that said, Robinhood should leverage machine-learning and deep-learning technology so that it's bot can become smarter and more sophisticated with time, and as Robinhood's user base increases. 
+While the first recommendation can be adopted without the leveraging of any new technologies, Robinhood will need to utilize additional technologies for the second. Python, a programming language it already leverages, will enable Robinhood to develop simple trading bot by creating a trading algorithm.  With that said, Robinhood should leverage machine-learning and deep-learning technology so that it's bot can become smarter and more sophisticated with time as Robinhood's user base increases. 
 
 
 ## Sources:
